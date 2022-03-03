@@ -5,7 +5,7 @@
 2. [How to Install](#how-to-install)
 
 ## Introduction
-Atılım University Senior Project SE499
+Atılım University Senior Project SE494
 
 ## How To Install
 ...
